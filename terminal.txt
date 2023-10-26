@@ -1,0 +1,11 @@
+ cd     -> nos permite navegar
+ ls     -> nos dice que archivos hay
+ ls -l  -> completa
+ pwd    -> ruta
+ mkdir  -> creamos carpeta
+ touch  -> creamos archivo
+ mv     -> mover archivo/cambiare nombre
+ chmod  -> permisos
+ rm     -> eliminar (vacios)
+ rm -rf -> eliminar (no vacios)
+rmdir   -> eliminar carpeta
